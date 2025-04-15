@@ -15,6 +15,6 @@
 
 위에서 얻은 Calibration 데이터를 활용해 Camera pose estimation 및 AR object visualization을 진행하였습니다. AR 물체가 표시된 영상은 output.avi 파일로 저장되었습니다.
 
-
+![Image](https://github.com/user-attachments/assets/a5b6baf1-725a-48c6-905b-17e027460b56)
 
 보정된 영상에서는 체스보드 위로 간단한 피라미드 모양이 보입니다. output.avi를 실행해 피라미드 모양의 AR 물체를 확인할 수 있습니다.
